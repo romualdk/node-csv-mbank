@@ -1,5 +1,5 @@
 # node-csv-mbank
-Get CSV options for mBank transactions CSV file.
+Get CSV options for mBank transactions file.
 
 * decode, from Windows-1250 to UTF-8
 * options, from UTF-8 encoded data
